@@ -1,0 +1,3 @@
+/Users/apple/Downloads/ass2-B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/apple/Downloads/ass2-B/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/apple/Downloads/ass2-B/cmake-build-debug/CMakeFiles/ass2-B.dir
