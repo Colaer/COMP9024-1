@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/week3a.dir/pagerank.c.o CMakeFiles/week3a.dir/readData.c.o CMakeFiles/week3a.dir/Graph.c.o CMakeFiles/week3a.dir/list.c.o  -o week3a 

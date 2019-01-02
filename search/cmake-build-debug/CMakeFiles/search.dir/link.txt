@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/search.dir/pagerank.c.o CMakeFiles/search.dir/readData.c.o CMakeFiles/search.dir/Graph.c.o CMakeFiles/search.dir/list.c.o  -o search 
